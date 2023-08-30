@@ -1,1 +1,6 @@
-* .zip .rar .txt .bd .bkp .env
+*.zip 
+*.rar 
+*txt 
+*.bd 
+*.bkp 
+*.env
